@@ -50,7 +50,7 @@ Tornado::Tornado():
     liftStrength = 4.5;
     
     //speed of undulations of vortex
-    vertTimeScale = 0.0999;
+    vertTimeScale = 0.2;
     
     //octaves of noise traversed going from bottom to top (bigger = more undulation)
     verticalScale = 0.00065;

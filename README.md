@@ -11,4 +11,4 @@ Motion study using a particle system to create a realistic tornado simulation
 -200,000 particles at 60fps
 
 
-Video: https://vimeo.com/152932064
+For more info, photos and video: http://adielfernandez.com/projects/vortex-sim.html
